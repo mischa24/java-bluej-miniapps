@@ -1,3 +1,10 @@
+![Language](https://img.shields.io/badge/language-Java-orange)
+![IDE](https://img.shields.io/badge/IDE-BlueJ-blue)
+![Topic](https://img.shields.io/badge/Covers-Text_Analysis_✔️-green)
+![Topic](https://img.shields.io/badge/Covers-Data_Processing_✔️-green)
+![Design](https://img.shields.io/badge/OOP-Object_Oriented_Design_✔️-blueviolet)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # Java BlueJ Miniapps
 
 This repository contains a collection of educational Java mini-projects developed in BlueJ.
